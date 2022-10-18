@@ -1,0 +1,19 @@
+package handler
+
+import "github.com/gofiber/fiber/v2"
+
+func UserGetAll(c *fiber.Ctx)error{
+	return nil
+}
+
+func UserCreate(c *fiber.Ctx)error{
+	return nil
+}
+
+func UserUpdate(c *fiber.Ctx)error{
+	return nil
+}
+
+func UserDelete(c *fiber.Ctx)error{
+	return nil
+}
